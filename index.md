@@ -1,3 +1,13 @@
+# Colin Heniff's First CS193 Homework
+
+My favorite parts of CS 193
+- It isn't Calculus
+- The class is very organized
+- It isn't very work heavy
+- The stuff we are learning is actually useful
+- It isn't Calculus
+
+(I'd delete this stuff but I might actually want the information for later)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
